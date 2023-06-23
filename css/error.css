@@ -1,0 +1,25 @@
+* {
+    margin-top: 0;
+    margin-left: 0; 
+}
+body{
+    background-image: url(https://www.seoinhouse.es/wp-content/uploads/2017/12/pagina-error-404.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    color: rgba(182, 16, 16, 0.829);
+    font-family: 'Lexend Zetta', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 100px;
+    text-shadow: 4px 4px rgb(85, 81, 81);
+}
+a{
+    font-family: 'Lexend Zetta', sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    margin-left: 50%;
+
+}
